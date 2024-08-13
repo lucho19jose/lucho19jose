@@ -1,6 +1,6 @@
 ## Hi 👋   I'm **Jose Luis Barboza**
 
-Fullstack software developer Web javascript(Vue.js), php(laravel) and the ecosystem around them, also IT support spcialist.
+Fullstack software developer Web javascript(Vue.js), php(laravel) and the ecosystem around them, also IT support specialist.
 
 ## 🛠️ Technical skills 
 
