@@ -29,4 +29,4 @@ Fullstack software developer Web javascript(Vue.js), php(laravel) and the ecosys
 lucho19jose/lucho19jose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="left"> <img loading="lazy" src="https://komarev.com/ghpvc/?username=lucho19jose&label=Profile%20views&color=0e75b6&style=flat" alt="lucho19jose" /> </p>
+
